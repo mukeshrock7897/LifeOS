@@ -1,0 +1,51 @@
+2025-12-27 09:51:16.858 | INFO     | app.mcp:register_all:47 - Registering MCP tools & resources
+2025-12-27 09:51:16.862 | INFO     | app.mcp:register_all:60 - LifeoS MCP ready
+2025-12-27 09:53:55.936 | INFO     | app.mcp:register_all:47 - Registering MCP tools & resources
+2025-12-27 09:53:55.939 | INFO     | app.mcp:register_all:60 - LifeoS MCP ready
+2025-12-27 09:59:24.951 | INFO     | app.mcp:register_all:47 - Registering MCP tools & resources
+2025-12-27 09:59:24.955 | INFO     | app.mcp:register_all:60 - LifeoS MCP ready
+2025-12-27 09:59:58.821 | INFO     | app.mcp:register_all:47 - Registering MCP tools & resources
+2025-12-27 09:59:58.824 | INFO     | app.mcp:register_all:60 - LifeoS MCP ready
+2025-12-27 10:00:49.155 | INFO     | app.mcp:register_all:47 - Registering MCP tools & resources
+2025-12-27 10:00:49.158 | INFO     | app.mcp:register_all:60 - LifeoS MCP ready
+2025-12-27 10:01:43.351 | INFO     | app.mcp:register_all:47 - Registering MCP tools & resources
+2025-12-27 10:01:43.354 | INFO     | app.mcp:register_all:60 - LifeoS MCP ready
+2025-12-27 10:31:19.072 | INFO     | app.mcp:register_all:53 - Registering MCP tools & resources
+2025-12-27 10:31:19.075 | INFO     | app.mcp:register_all:66 - LifeoS MCP ready
+2025-12-27 10:37:29.904 | INFO     | app.mcp:register_all:53 - Registering MCP tools & resources
+2025-12-27 10:37:29.908 | INFO     | app.mcp:register_all:66 - LifeoS MCP ready
+2025-12-27 10:48:41.688 | INFO     | app.mcp:register_all:53 - Registering MCP tools & resources
+2025-12-27 10:48:41.692 | INFO     | app.mcp:register_all:66 - LifeoS MCP ready
+2025-12-27 10:58:20.333 | INFO     | app.mcp:register_all:53 - Registering MCP tools & resources
+2025-12-27 10:58:20.337 | INFO     | app.mcp:register_all:66 - LifeoS MCP ready
+2025-12-27 11:02:45.495 | INFO     | app.mcp:register_all:53 - Registering MCP tools & resources
+2025-12-27 11:02:45.498 | INFO     | app.mcp:register_all:66 - LifeoS MCP ready
+2025-12-27 11:04:56.850 | INFO     | app.mcp:register_all:53 - Registering MCP tools & resources
+2025-12-27 11:04:56.854 | INFO     | app.mcp:register_all:66 - LifeoS MCP ready
+2025-12-27 11:05:12.606 | INFO     | app.db.sqlite:get_database:92 - SQLite ready at /Users/myadav/Downloads/mcp-projects/lifeos_final/data/lifeos.db
+2025-12-27 11:05:12.608 | INFO     | app.services.notes:create_note:24 - Note created: test
+2025-12-27 11:06:35.365 | INFO     | app.services.calendar:create_event:27 - Event created: prp
+2025-12-27 11:08:38.710 | INFO     | app.mcp:register_all:53 - Registering MCP tools & resources
+2025-12-27 11:08:38.714 | INFO     | app.mcp:register_all:66 - LifeoS MCP ready
+2025-12-27 11:09:01.040 | INFO     | app.mcp:register_all:53 - Registering MCP tools & resources
+2025-12-27 11:09:01.044 | INFO     | app.mcp:register_all:66 - LifeoS MCP ready
+2025-12-27 11:10:07.587 | INFO     | app.db.sqlite:get_database:92 - SQLite ready at /Users/myadav/Downloads/mcp-projects/lifeos_final/data/lifeos.db
+2025-12-27 11:34:28.747 | INFO     | app.mcp:register_all:54 - Registering MCP tools & resources
+2025-12-27 11:34:28.761 | INFO     | app.mcp:register_all:68 - LifeOS MCP ready
+2025-12-27 11:36:21.521 | INFO     | app.mcp:register_all:54 - Registering MCP tools & resources
+2025-12-27 11:36:21.535 | INFO     | app.mcp:register_all:68 - LifeOS MCP ready
+2025-12-27 12:06:27.107 | INFO     | app.mcp:register_all:54 - Registering MCP tools & resources
+2025-12-27 12:06:27.122 | INFO     | app.mcp:register_all:68 - LifeOS MCP ready
+2025-12-27 12:06:57.621 | INFO     | app.db.sqlite:get_database:217 - SQLite ready at /Users/myadav/Downloads/mcp-projects/lifeos_final/data/lifeos.db
+2025-12-27 12:07:17.702 | INFO     | app.services.notes:create_note:52 - Note created: test
+2025-12-27 12:08:30.280 | INFO     | app.services.calendar:create_event:59 - Event created: PRP
+2025-12-27 12:17:06.147 | INFO     | app.mcp:register_all:54 - Registering MCP tools & resources
+2025-12-27 12:17:06.166 | INFO     | app.mcp:register_all:68 - LifeOS MCP ready
+2025-12-27 12:17:48.961 | INFO     | app.db.sqlite:get_database:217 - SQLite ready at /Users/myadav/Downloads/mcp-projects/lifeos_final/data/lifeos.db
+2025-12-27 12:17:48.962 | INFO     | app.services.notes:create_note:52 - Note created: test
+2025-12-27 12:22:06.087 | INFO     | app.mcp:register_all:54 - Registering MCP tools & resources
+2025-12-27 12:22:06.107 | INFO     | app.mcp:register_all:68 - LifeOS MCP ready
+2025-12-27 12:22:27.368 | INFO     | app.db.sqlite:get_database:217 - SQLite ready at /Users/myadav/Downloads/mcp-projects/LifeOS/data/lifeos.db
+2025-12-27 12:22:39.748 | INFO     | app.services.notes:create_note:52 - Note created: testing
+2025-12-27 12:23:48.019 | INFO     | app.mcp:register_all:54 - Registering MCP tools & resources
+2025-12-27 12:23:48.038 | INFO     | app.mcp:register_all:68 - LifeOS MCP ready
