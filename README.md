@@ -2,7 +2,7 @@
 ![alt text](image-1.png)
 
 LifeOS MCP is a fast, local-first MCP server backed by SQLite. It exposes tools for notes, tasks, calendar, and a safe filesystem layer. It also includes resources, prompts, and templates for MCP clients.
-## Developer -> Mukesh Yadav Bengaluru
+## Developer : Mukesh Yadav Bengaluru
 ## Core capabilities
 
 - Notes: create, list, search, tag, pin, update, delete
